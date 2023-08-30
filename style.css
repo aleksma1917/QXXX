@@ -23,13 +23,11 @@ body, html {
 
 
 #luckyJet {
-  margin-right: 90px;
   position:fixed;
   display: flex;
   height: 30%;
   cursor: pointer;
   animation: bounce 3s infinite;
-  z-index: 2;
 }
 
 @keyframes bounce {
