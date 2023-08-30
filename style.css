@@ -222,7 +222,7 @@ body, html {
 
 .result-container {
   left: 24%;
-  top: 18%;
+  top: 15%;
   color: #f7f7f9;
    font-size: 60px;
    position: absolute;
@@ -245,7 +245,7 @@ body, html {
 
 .radar-button {
   left: 24%;
- top: 70%;
+ top: 75%;
   padding: 20px 30px;
   background: linear-gradient(to bottom, #e549b0, #844ced);
   border: 4px #1a1534 solid;
